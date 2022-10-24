@@ -85,5 +85,5 @@ int main()
             DFS(adjMatrix, isVisited, node, allNodesMap, numOfNodes);
         cout << "    ";
     }
-    cout<<endl;
+    cout << endl;
 }
